@@ -1,4 +1,3 @@
-# Employee-payroll-management-system
 # 🧾 Employee Payroll Management System
 
 A desktop-based Employee Payroll Management System built using **Python (Tkinter)** for the graphical user interface and **MySQL** for backend database support. This application helps streamline the process of calculating and managing employee salaries with ease and accuracy.
